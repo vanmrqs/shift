@@ -1,5 +1,3 @@
-Qualquer coisa
-
 Uma linha antes
 
 Nossa primeira alteração no arquivo

@@ -3,3 +3,6 @@ Uma linha antes
 Nossa primeira alteração no arquivo
 
 Uma linha depois
+
+
+Uma nova alteração para comparar commits

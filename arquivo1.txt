@@ -2,7 +2,7 @@ Uma linha antes
 
 Nossa primeira alteração no arquivo
 
-Outra alteração para comparar commits
+Alteração na dev
 
 Uma linha depois
 
@@ -12,3 +12,5 @@ Uma nova alteração para comparar commits
 Alteração para o stash
 
 Esta linha originou-se da branch dev
+
+Última linha do arquivo

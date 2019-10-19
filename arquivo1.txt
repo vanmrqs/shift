@@ -10,3 +10,5 @@ Uma linha depois
 Uma nova alteração para comparar commits
 
 Alteração para o stash
+
+Esta linha originou-se da branch dev
